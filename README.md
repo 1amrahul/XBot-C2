@@ -9,8 +9,9 @@
 - **Web-Based Control Interface:** Easily manage and execute commands on target machines through a simple and intuitive web interface.
 - **Command Execution:** Focused functionality that allows remote command execution, making it ideal for security researchers and penetration testers.
 
+
 ## Demo Video
 
-Check out the demonstration of **XBOT-C2** in action: [Watch the video](https://github.com/1amrahul/XBot-C2/blob/main/demo.mp4)
+Check out the demonstration of **XBOT-C2** in action: [Watch the video](https://github.com/1amrahul/XBot-C2/raw/refs/heads/main/demo.mp4)
 
 
